@@ -11,7 +11,7 @@
 If I spoke these passwords outload to another person they would be able to use their native understanding of American English to spell them with great probability.
 
 ### Final Inteface
-I will provide a length and will expect the pronounceable password of a reasonable length 8-12 characters to be pronouncable.
+I will provide a password length and will expect the pronounceable password of a reasonable length 8-12 characters to be generated.
 
 ### Hints
 1. Start with writing out an outline of project you will build (TDD might come in handy here).
